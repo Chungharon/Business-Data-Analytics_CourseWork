@@ -1,0 +1,12 @@
+Invoice ID,Date,Customer Name,Product,Category,Quantity,Unit Price,Total,Payment Method,Store
+INV001,1/5/2025,John Doe,Laptop,Electronics,1,899.99,899.99,Credit Card,Nairobi
+INV002,5/1/2025,jane smith,Smartphone,Electronics,2,499.5,999,credit card,Nairobi
+INV003,1/6/2025,Ali Hussein,,Electronics,1,599.99,,Cash,Mombasa
+INV004,1/7/2025,Mary Wangari,Headphones,Electronics,,99.99,,Cash,Mombasa
+INV005,1/7/2025,JOHN DOE,Laptop,Electronics,1,899.99,899.99,Credit Card,Nairobi
+INV006,,Anne Mwangi,Blender,Home,1,149.99,149.99,MPESA,Kisumu
+INV007,1/8/2025,Peter Otieno,Microwave,Home,1,,,Mpesa,Kisumu
+INV008,1/9/2025,Jane Smith,Laptop,Electronics,1,899.99,899.99,Credit Card,Nairobi
+INV008,1/9/2025,Jane Smith,Laptop,Electronics,1,899.99,899.99,Credit Card,Nairobi
+INV009,1/10/2025,,TV,Electronics,1,1299.99,1299.99,Cash,Mombasa
+INV010,10/1/2025,James Kariuki,Vacuum Cleaner,Home,1,199.99,199.99,mpesa,Kisumu

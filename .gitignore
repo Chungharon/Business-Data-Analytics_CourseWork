@@ -1,0 +1,24 @@
+# SSH Keys - NEVER commit!
+chungani675014
+*_rsa*
+*_ed25519*
+*.pem
+*.key
+
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Credentials
+.env
+*.credentials
+chungani675014.pub

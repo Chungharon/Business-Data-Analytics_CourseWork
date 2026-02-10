@@ -1,0 +1,13 @@
+Date,Category,Description,Amount,Payment_Method,Day_of_Week
+2024-01-01,Food,Grocery shopping,85.5,Credit Card,Monday
+2024-01-03,Transport,Uber ride,15.0,Cash,Wednesday
+2024-01-05,Entertainment,Movie tickets,25.0,Credit Card,Friday
+2024-01-07,Food,Restaurant,42.3,Debit Card,Sunday
+2024-01-10,Shopping,New shoes,120.0,Credit Card,Wednesday
+2024-01-12,Food,Coffee shop,5.5,Cash,Friday
+2024-01-15,Transport,Gas,45.0,Credit Card,Monday
+2024-01-18,Entertainment,Concert,75.0,Credit Card,Thursday
+2024-01-20,Food,Lunch,18.5,Cash,Saturday
+2024-01-22,Shopping,Clothes,95.0,Credit Card,Monday
+2024-01-25,Transport,Taxi,12.0,Cash,Thursday
+2024-01-28,Food,Dinner,55.2,Debit Card,Sunday
