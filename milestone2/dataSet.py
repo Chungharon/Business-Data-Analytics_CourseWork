@@ -1,0 +1,46 @@
+# Objective: Practice data cleaning and transformation using a real-world dataset.    Tools: Python, Jupyter Notebook, Pandas, NumPy     
+# Dataset Example: Retail sales CSV with missing values, inconsistent formats, and duplicates
+
+# Real-World Applications
+
+# Healthcare – AMREF
+# Challenge: Mismatched formats in maternal health data across clinics.
+# Solution: Standardized data formats and transformed fields for mobile health analytics.
+# Impact: Supported better maternal health monitoring and reporting.
+
+import pandas as pd
+import numpy as np
+
+df = pd.read_csv('my_expenses.csv')
+
+#View basic info
+#print(expenses)
+#print(expenses.info())
+#print(expenses.head())
+#print(expenses.describe())
+
+#Drop duplicate entries
+
+#expenses.drop_duplicates()
+
+#Handling missing values
+# df['Amount'].fillna(df['Amount'].mean(), inplace=True)
+
+# Convert date column
+# df['Date'] = pd.to_datetime(df['Date'])
+# # Normalize categorical column
+# df['Category'] = df['Category'].str.lower()
+# # Create a new column (feature engineering)
+# df['Revenue_per_Item'] = df['Revenue'] / df['Quantity']
+# print(df.describe())
+
+
+# Specific Columns for DataFrame
+
+# dates = expenses['Date']
+# dates.head()
+# print(dates) # can be any column of interests
+
+# Continuation
+
+
