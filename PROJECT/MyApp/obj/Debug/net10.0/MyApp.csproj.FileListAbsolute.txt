@@ -1,0 +1,15 @@
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/bin/Debug/net10.0/MyApp
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/bin/Debug/net10.0/MyApp.deps.json
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/bin/Debug/net10.0/MyApp.runtimeconfig.json
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/bin/Debug/net10.0/MyApp.dll
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/bin/Debug/net10.0/MyApp.pdb
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/obj/Debug/net10.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfoInputs.cache
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/obj/Debug/net10.0/MyApp.AssemblyInfo.cs
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/obj/Debug/net10.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/obj/Debug/net10.0/MyApp.sourcelink.json
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/obj/Debug/net10.0/MyApp.dll
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/obj/Debug/net10.0/refint/MyApp.dll
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/obj/Debug/net10.0/MyApp.pdb
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/obj/Debug/net10.0/MyApp.genruntimeconfig.cache
+/Users/mac/Desktop/dataAnalysis/PROJECT/MyApp/obj/Debug/net10.0/ref/MyApp.dll

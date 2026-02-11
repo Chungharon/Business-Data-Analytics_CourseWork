@@ -33,7 +33,7 @@ def generate_sales_chart():
     plt.ylabel('Sales ($)', fontsize=12, fontweight='bold')
     
     # Format y-axis to show currency
-    ax.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, p: f'${x:,.0f}'))
+    ax.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, p: f'${x:,.0f}')) # pyright: ignore[reportPrivateImportUsage]
     
     # Add grid
     plt.grid(True, alpha=0.3, linestyle='--')
@@ -86,7 +86,7 @@ def generate_single_year_chart(year=2024, sales_data=None):
     plt.xlabel('Month', fontsize=12, fontweight='bold')
     plt.ylabel('Sales ($)', fontsize=12, fontweight='bold')
     
-    plt.gca().yaxis.set_major_formatter(plt.FuncFormatter(lambda x, p: f'${x:,.0f}'))
+    plt.gca().yaxis.set_major_formatter(plt.FuncFormatter(lambda x, p: f'${x:,.0f}')) # pyright: ignore[reportPrivateImportUsage]
     plt.grid(True, alpha=0.3, linestyle='--')
     plt.xticks(rotation=45)
     

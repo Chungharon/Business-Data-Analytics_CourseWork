@@ -1,0 +1,28 @@
+﻿// See https://aka.ms/new-console-template for more information
+public class ExceptionTest
+{
+    static double SafeDivision(double x, double y)
+    {
+        if (y == 0)
+            throw new DivideByZeroException();
+        return x / y;
+    }
+
+    public static void Main()
+    {
+        // Input for test purposes. Change the values to see
+        // exception handling behavior.
+        double a = 98, b = 0;
+        double result;
+
+        try
+        {
+            result = SafeDivision(a, b);
+            Console.WriteLine($"{a} divided by {b} = {result}");
+        }
+        catch (DivideByZeroException)
+        {
+            Console.WriteLine("Attempted divide by zero.");
+        }
+    }
+}
